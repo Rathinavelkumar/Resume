@@ -1,4 +1,8 @@
 site_name: M RATHINAVELKUMAR
 
+nav:
+    - Profile Summary: index.md
+    - Technical Summary: technical_excellence.md
+
 theme:
   name: material  
