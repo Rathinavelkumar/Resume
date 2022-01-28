@@ -1,7 +1,7 @@
 site_name: M RATHINAVELKUMAR
 
 nav:
-    - Profile Summary: profile_summary.md
+    - Profile Summary: index.md
     - Technical Summary: technical_excellence.md
     - Contact: contact.md
 
