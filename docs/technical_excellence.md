@@ -1,13 +1,15 @@
 ## **Technology**
 
-    Programing Languages    # Python, Java, and VBScript
+    Programing Languages    # Python, Java, JavaScript and VBScript
     Backend Frameworks      # Flask and FastAPI
+    Frontend Frameworks     # React JS, HTML, CSS and Bootstrap
     Databases               # SQLite, MySQL, MSSQL and Snowflake
     Version controls        # GitHub and Bitbucket
     Operating System        # Windows, Mac, and Linux
     Automation Tools        # TOSCA, Selenium, Protractor and UFT
     Management Tools        # JIRA, QTest and HP ALM
     CI/DevOps Tools         # Azure DevOps, Jenkins, Docker, and PCF
+    Deployment Automation   # Terraform
 
 ## **Career Excellence**
 
