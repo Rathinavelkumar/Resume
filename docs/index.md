@@ -2,12 +2,12 @@
 
 ## **Profile Summary**
 
-* **`SDLC, ARCHITECT, OOPS, AGILE`** - Experienced with full software development life cycle, architecting scalable platforms, object-oriented programming, database design and agile methodologies
+* **`SDLC, ARCHITECT, OOPS, AGILE, CLOUD`** - Experienced with full software development life cycle, architecting scalable platforms, object-oriented programming, database design, agile methodologies and cloud technologies
 * **`FLASK, FAST API, SQLALCHEMY, REST APIs`** - Experienced in developing REST APIs in Python using Flask and FastAPI with SqlAlchemy in the backend
 * **`SNOW, CHEF, CITRIX, AKAMAI, OEM APIs, REQUEST, PANDAS`** - Experienced in Snow, vROps, Chef, Citrix XenApp and XenDesktop, Akamai and OEM APIs to retrieve data for Tableau dashboard in python using Request and Pandas libraries
 * **`MySQL, SQLite, MSSQL`** - Expertise in using Relational Databases using SQLite, MySQL and MSSQL databases with Python
 * **`DEVOPS, AZURE, AWS, JENKINS, PCF`** - Involved in Continuous integration framework using Azure DevOps, Jenkins and PCF
-* **`PCF, DOCKER`** - Solid experience in PCF and Docker containerization
+* **`PCF, DOCKER, KAFKA, TERRAFROM`** - Solid experience in PCF, AWS MSK, TERRAFORM and Docker containerization
 
 ## **Technical Excellence**
 

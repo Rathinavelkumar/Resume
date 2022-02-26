@@ -3,6 +3,7 @@ site_name: M RATHINAVELKUMAR
 nav:
     - Profile Summary: index.md
     - Technical Summary: technical_excellence.md
+    - Project Summary: project_details.md
     - Contact: contact.md
 
 theme:
