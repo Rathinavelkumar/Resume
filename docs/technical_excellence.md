@@ -1,4 +1,4 @@
-## Technology
+## **Technology**
 
     Programing Languages    # Python, Java, and VBScript
     Backend Frameworks      # Flask and FastAPI
@@ -9,7 +9,7 @@
     Management Tools        # JIRA, QTest and HP ALM
     CI/DevOps Tools         # Azure DevOps, Jenkins, Docker, and PCF
 
-## Career Excellence
+## **Career Excellence**
 
 * `FLASK, REST APIs ORM` - Extensively used FLASK technologies, which includes REST APIs, requests and ORM for communication with database in different forms
 * `LIVE REPORTING` - Responsible for creating the company's internal platform called TCO and Compliance dashboard by using Python to develop and generate reports for frequent interval of times
