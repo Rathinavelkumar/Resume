@@ -1,3 +1,7 @@
+# **Python Developer** 
+
+Experience: **`5+ Years`** | Email: **`rethnavelkumar@gmail.com`** | Mobile: **`+91 814-872-8660`**
+
 ## **Profile Summary**
 
 * **`SDLC, ARCHITECT, OOPS, AGILE, CLOUD`** - Experienced with full software development life cycle, architecting scalable platforms, object-oriented programming, database design, agile methodologies and cloud technologies
