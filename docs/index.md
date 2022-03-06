@@ -1,6 +1,6 @@
 # **Python Developer** 
 
-Experience: **`5+ Years`** | Email: **`rethnavelkumar@gmail.com`** | Mobile: **`+91 814-872-8660`**
+**Experience**: **5+ Years** | **Email**: **rethnavelkumar@gmail.com** | **Mobile**: **+91 814-872-8660**
 
 ## **Profile Summary**
 

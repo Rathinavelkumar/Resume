@@ -5,7 +5,7 @@ nav:
     - Technical Skills: technical_summary.md
     - Project Details: project_summary.md
     - Career Summary: career_summary.md
-    - Contact Details: contact_summary.md
+    - About Me: about_summary.md
 
 theme:
   name: material  
