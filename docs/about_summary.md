@@ -1,3 +1,12 @@
+## **Educational Qualifications**
+
+| COURSE  | INSTITUTION     | UNIV/MEDIUM | PERCENTAGE SECURED | YEAR OF PASSING |
+| :------------ |:---------------:| -----:| -----:| -----:|
+| BE - BME  | PSNA CET | Anna University | 77.5% | 2016 |
+| H.S.C  | H.D.I JAIN Matric Hr.Sec School | Matric | 86.75% | 2012 |
+| S.S.L.C  | B.M.S Vidhyalaya Matriculation school | Matric | 87.2 % | 2010 |
+
+
 ## **Personal Details**
 
     Father’s Name           : MURUGAN M
