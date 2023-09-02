@@ -1,13 +1,15 @@
 ## **Technology**
 
-    Programing Languages    # Python, Java, and VBScript
+    Programing Languages    # Python, Java, JavaScript and VBScript
     Backend Frameworks      # Flask and FastAPI
-    Databases               # SQLite, MySQL, MSSQL and Snowflake
+    Frontend Frameworks     # React JS, HTML, CSS and Bootstrap
+    Databases               # SQLite, MySQL, SQL Server and Snowflake
     Version controls        # GitHub and Bitbucket
     Operating System        # Windows, Mac, and Linux
     Automation Tools        # TOSCA, Selenium, Protractor and UFT
     Management Tools        # JIRA, QTest and HP ALM
-    CI/DevOps Tools         # Azure DevOps, Jenkins, Docker, and PCF
+    CI/DevOps Tools         # Azure DevOps, Jenkins, Docker, PCF and Kafka
+    Cloud Automation        # Terraform and Jenkins pipeline
 
 ## **Career Excellence**
 
@@ -17,4 +19,5 @@
 * `DOCUMENTATION` - Develop easy to use documentation for the frameworks & tools developed for adaption by other teams
 * `REGRESSION TESTING` - Extensively used Test automation tools/frameworks TOSCA, UFT and Selenium for Regression testing
 * `BUG FREE DEVELOPMENT` - Leads the implementation of complex solutions with minimal technical debt. Develop solutions that are easy to deploy, maintain, and are bug free
-
+* `DEVOPS, CLOUD, AUTOMATION` - Design solutions for data storage, monitoring & deployment automation while continually enhancing DevOps tools and procedures
+* `CUSTOMER EXPERIENCE ENHANCED` - Improved customer experience by building, deploying and scaling web services on PCF infrastructure

@@ -2,8 +2,10 @@ site_name: M RATHINAVELKUMAR
 
 nav:
     - Profile Summary: index.md
-    - Technical Summary: technical_excellence.md
-    - Contact: contact.md
+    - Technical Skills: technical_summary.md
+    - Project Details: project_summary.md
+    - Career Summary: career_summary.md
+    - About Me: about_summary.md
 
 theme:
   name: material  
