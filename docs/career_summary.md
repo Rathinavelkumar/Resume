@@ -3,7 +3,8 @@
 | ORGANIZATION  | DESIGNATION     | DURATION |
 | :------------ |:---------------:| -----:|
 | Cognizant Technology Solutions      | Associate - Automation Engineer | Dec 2016 to Feb 2021 |
-| CBTS Technology Solutions      | Software Developer | Feb 2021 to till now |
+| CBTS Technology Solutions      | Software Developer | Feb 2021 to July 2022 |
+| Athenahealth Technology Pvt Ltd      | Senior Software Developer | July 2022 to till now |
 
 ## **Certifications**
 
